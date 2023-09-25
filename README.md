@@ -26,4 +26,9 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 - pdays : number of days that passed by after the client was last contacted from a previous campaign(numeric, -1 means client was not previously contacted)
 - previous : number of contacts performed before this campaign and for this client
 - poutcome : outcome of the previous marketing campaign
+- emp.var.rate: employment variation rate - quarterly indicator (numeric)
+- cons.price.idx: consumer price index - monthly indicator (numeric)
+- cons.conf.idx: consumer confidence index - monthly indicator (numeric)
+- euribor3m: euribor 3 month rate - daily indicator (numeric)
+- nr.employed: number of employees - quarterly indicator (numeric)
 - y : has the client subscribed a term deposit? (outcome)
