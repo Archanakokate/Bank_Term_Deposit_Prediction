@@ -1,5 +1,4 @@
-### PRODIGY Internship - Data Science
-#### Task 3
+
 ## Bank Term Deposit Prediction
 
 ##### Problem Statement:
